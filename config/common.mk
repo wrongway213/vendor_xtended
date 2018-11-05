@@ -163,6 +163,7 @@ PRODUCT_PACKAGES += \
     LatinIME \
     BluetoothExt \
     OmniJaws \
+    OmniSwitch \
     OmniStyle
 
 # QS tile styles
